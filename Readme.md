@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sahiljain0.Sahiljain0" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sahil+Jain!;" />
@@ -12,13 +12,12 @@
  
  🔭 I’m currently working as a **Freelancer**
  
- 🌱 I’m currently learning **Docker, Next.js, typescript, AWS**
+ 🌱 I’m currently learning **Docker, Next.js, TypeScript, AWS**
 
 
+⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:jainsahil760@gmail.com">
